@@ -1,3 +1,15 @@
+
+
+# 账号分享
+
+[账号有偿分享-号中号](http://www.idinid.com/)
+
+[账号有偿分享-百度云盘](http://www.idinid.com/site/panbaidu.html)
+
+[账号有偿分享-迅雷会员](http://www.idinid.com/site/xunlei.html)
+
+[账号有偿分享-中国知网](http://www.idinid.com/site/cnki.html)
+
 # 资源类
 
 [Kindle找书-鳩摩搜索](https://www.jiumodiary.com/)
