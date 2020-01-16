@@ -2,9 +2,22 @@
 
 ---
 
-## 工具类
+## 娱乐类
+
+- [博客园（程序猿）](https://www.cnblogs.com/)
+- [鱼塘热榜-话题](https://mo.fish/main/home/hot)
+- [V2EX-IT话题](https://www.v2ex.com/?tab=tech)
+- [CSDN-IT技术社区](https://www.csdn.net/)
+- [少数派-Matrix](https://go.sspai.com/matrix)
+- [哔哩哔哩-动态](https://t.bilibili.com/)
+- [哔哩哔哩-订阅番剧](https://space.bilibili.com/6695871/bangumi)
+
+---
+
+## 便利类
 
 - ### 临时账号
+
     - [临时邮箱-10分钟](http://mail.bccto.me/)
     - [临时邮箱-24小时](http://24mail.chacuo.net/enus)
     - [临时短信-国内使用-BECMD](https://www.becmd.com/)
@@ -21,16 +34,38 @@
 
 ## 学术类
 
+- ### 工具
+
+    - [Desmos-图表生成](https://www.desmos.com/calculator)
+    - [Wolframe-计算/查询](https://www.wolframalpha.com/)
+
+- ### 资料
+
+    - [HowToMechatronics-单片机百科](https://howtomechatronics.com/)
+    - [KhanAcademy](https://www.khanacademy.org/)
+        - [Physics](https://www.khanacademy.org/science/physics)
+        - [Chemistry](https://www.khanacademy.org/science/chemistry)
+    - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html)
+    - [IB-Physics](https://ibphysics.org/)
+
 - ### 文献
 
+    - [JSTOR](https://www.jstor.org/)
+    - [ANU-ScienceDirect](https://www-sciencedirect-com.virtual.anu.edu.au/)
     - [学术搜索-百度学术](https://xueshu.baidu.com/)
     - [学术搜索-谷歌学术](https://scholar.google.com.hk/?hl=zh-CN)
     - [学术搜素-360学术](http://xueshu.so.com/)
     - [学术搜素-中国知网](https://www.cnki.net/)
+    - 
 
 - ### 问题
 
     - [问题搜索-CSDN](https://www.csdn.net/)
+    - 
+
+- ### 课本下载
+
+    - [SurvivorLibrary](http://www.survivorlibrary.com/library-download)
 
 ---
 
