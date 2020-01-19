@@ -10,7 +10,7 @@ http://www.dongjinggonglue.com/lvyou/gonglue/3313.html
 
 ## JapanTrip-2020 
 
-[SuoweiHu/JapanTrip-2020](SuoweiHu/JapanTrip-2020)
+[SuoweiHu/JapanTrip-2020](https://github.com/SuoweiHu/JapanTrip-2020)
 
 [待校验/任务/Git Issue](https://github.com/SuoweiHu/JapanTrip-2020/issues)
 
