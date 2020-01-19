@@ -2,6 +2,22 @@
 
 ---
 
+## 待阅
+
+http://www.dongjinggonglue.com/lvyou/gonglue/3313.html
+
+---
+
+## JapanTrip-2020
+
+[SuoweiHu/JapanTrip-2020](SuoweiHu/JapanTrip-2020)
+
+[待校验/任务/Git Issue](https://github.com/SuoweiHu/JapanTrip-2020/issues)
+
+[Google Drive地图](https://www.google.com/maps/d/u/0/edit?mid=1dLZIDPDTCEggfbseCkc7ACiNJ22XU7Aw&ll=35.63010033886083%2C139.69189161309328&z=12)
+
+---
+
 ## 娱乐类
 
 - 哔哩哔哩
@@ -13,6 +29,8 @@
 - [V2EX-IT话题](https://www.v2ex.com/?tab=tech)
 - [CSDN-IT技术社区](https://www.csdn.net/)
 - [少数派-Matrix](https://go.sspai.com/matrix)
+- 知乎
+    - [知乎收藏夹](https://www.zhihu.com/people/suowei.h/collections)
 
 ---
 
@@ -105,7 +123,8 @@
 
     - [MacBL](https://www.macbl.com/)
     - [易损坏无法打开解决方法](https://www.macbl.com/article/tips/2123)
-    - 
+    - [Mac毒](https://www.macdo.cn/)
+    - [拉普拉斯](http://www.lapulace.com/)
 
 - ### 网盘
 
