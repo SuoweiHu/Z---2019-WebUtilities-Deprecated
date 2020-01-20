@@ -151,11 +151,14 @@ http://www.dongjinggonglue.com/lvyou/gonglue/3313.html
 
 ---
 
-## 常用前缀
+## 常用前缀/命令
 
-- **迅雷磁力链接前缀**：`magnet:?xt=urn:btih:`
-
-- **百度网盘地址前缀**：`pan.baidu.com/s/`
+- **迅雷磁力链接前缀**
+- magnet:?xt=urn:btih:
+- **百度网盘地址前缀**
+    - pan.baidu.com/s/
+- **Mac查看当前文件夹目录下，所有文件夹大小**
+    - du -sh *
 
  
 
