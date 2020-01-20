@@ -4,7 +4,11 @@
 
 ## 待阅
 
-http://www.dongjinggonglue.com/lvyou/gonglue/3313.html
+[十分钟经济学](https://space.bilibili.com/1950746/channel/detail?cid=1766)
+
+[日本东京自由行攻略](http://www.dongjinggonglue.com/lvyou/gonglue/3313.html)
+
+
 
 ---
 
