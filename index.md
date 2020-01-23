@@ -8,19 +8,29 @@
 
 ## 待阅
 
+[Youtube-稍后再看](https://www.youtube.com/playlist?list=WL)
+
+[BiliBili-稍后再看](https://www.bilibili.com/watchlater/#/list)
+
+
+
 [十分钟经济学](https://space.bilibili.com/1950746/channel/detail?cid=1766)
 
 [日本东京自由行攻略](http://www.dongjinggonglue.com/lvyou/gonglue/3313.html)
+
+
 
 ---
 
 ## JapanTrip-2020 
 
-[SuoweiHu/JapanTrip-2020](https://github.com/SuoweiHu/JapanTrip-2020)
+- [SuoweiHu/JapanTrip-2020](https://github.com/SuoweiHu/JapanTrip-2020)
 
-[待校验/任务/Git Issue](https://github.com/SuoweiHu/JapanTrip-2020/issues)
+- [待校验/任务/Git Issue](https://github.com/SuoweiHu/JapanTrip-2020/issues)
 
-[Google Drive地图](https://www.google.com/maps/d/u/0/edit?mid=1dLZIDPDTCEggfbseCkc7ACiNJ22XU7Aw&ll=35.63010033886083%2C139.69189161309328&z=12)
+- [Google Drive地图](https://www.google.com/maps/d/u/0/edit?mid=1dLZIDPDTCEggfbseCkc7ACiNJ22XU7Aw&ll=35.63010033886083%2C139.69189161309328&z=12)
+
+
 
 ---
 
@@ -28,15 +38,17 @@
 
 - Youtube
   
-- [稍后再看](https://www.youtube.com/playlist?list=WL)
+  - [稍后再看](https://www.youtube.com/playlist?list=WL)
   
 - BiliBili
   
     - [稍后再看](https://www.bilibili.com/watchlater/#/list)
     
-- [动态](https://t.bilibili.com/)
+    - [动态](https://t.bilibili.com/)
+        
     - [番剧](https://space.bilibili.com/6695871/bangumi)
-    - 
+    
+        
     
 - 知乎
 
@@ -53,8 +65,6 @@
 - [CSDN-IT技术社区](https://www.csdn.net/)
 
 - [少数派-Matrix](https://go.sspai.com/matrix)
-
-    
 
 ---
 
@@ -92,6 +102,8 @@
 - ### 课本下载
 
     - [SurvivorLibrary](http://www.survivorlibrary.com/library-download)
+    
+    
 
 ---
 
@@ -113,6 +125,10 @@
 
 [程资料工具箱（界面有点丑，但是工具很多）](https://www.toolnb.com/)
 
+
+
+
+
 ---
 
 ## 账号分享
@@ -121,6 +137,8 @@
     - [百度云盘](http://www.idinid.com/site/panbaidu.html)
     - [迅雷会员](http://www.idinid.com/site/xunlei.html)
     - [中国知网](http://www.idinid.com/site/cnki.html)
+
+
 
 ---
 
