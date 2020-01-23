@@ -23,16 +23,22 @@
 ## 娱乐类
 
 - Youtube
-    - [Watch Later](https://www.youtube.com/playlist?list=WL)
-
+  
+- [稍后再看](https://www.youtube.com/playlist?list=WL)
+  
 - BiliBili
-    - [哔哩哔哩-动态](https://t.bilibili.com/)
-    - [哔哩哔哩-订阅番剧](https://space.bilibili.com/6695871/bangumi)
-    - [哔哩哔哩-稍后再看](https://www.bilibili.com/watchlater/#/list)
-
+  
+    - [稍后再看](https://www.bilibili.com/watchlater/#/list)
+    
+- [动态](https://t.bilibili.com/)
+    - [番剧](https://space.bilibili.com/6695871/bangumi)
+    - 
+    
 - 知乎
 
-    - [知乎收藏夹](https://www.zhihu.com/people/suowei.h/collections)
+    - [收藏夹](https://www.zhihu.com/people/suowei.h/collections)
+
+    
 
 - [博客园（程序猿）](https://www.cnblogs.com/)
 
@@ -175,6 +181,16 @@
     - pan.baidu.com/s/
 - **Mac查看当前文件夹目录下，所有文件夹大小**
     - du -sh *
+
+
+
+---
+
+## 消费退烧
+
+- [透支消费来装逼！你是真的有钱？](https://www.bilibili.com/watchlater/#/av66996909/p1)
+- [消费，毁掉一个人的未来有多容易？](https://www.bilibili.com/watchlater/#/av82643386/p1)
+- [为什么说现在年轻人基本没机会了](https://www.bilibili.com/watchlater/#/av71021463/p1)
 
  
 
