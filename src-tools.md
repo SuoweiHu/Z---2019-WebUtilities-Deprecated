@@ -6,6 +6,14 @@
 
 ---
 
+## Win10激活码
+
+- 教育版：YGCGD-K2NQP-MMM9G-D2DKG-H8RB3
+
+- 专业版：6K3M9-TPGKQ-RXPFK-VBR33-PW66V
+
+- 企业版：RRPWN-69DBB-FDYV4-VTTYV-VT9R4
+
 ## 临时账号
 
 - [临时邮箱-10分钟](http://mail.bccto.me/)
@@ -26,7 +34,7 @@
 
 - **迅雷磁力链接前缀**
 
-- magnet:?xt=urn:btih:
+    - magnet:?xt=urn:btih:
 
 - **百度网盘地址前缀**
 

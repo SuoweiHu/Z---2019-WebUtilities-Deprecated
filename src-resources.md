@@ -6,6 +6,14 @@
 
 ---
 
+## Win10激活码
+
+- 教育版：YGCGD-K2NQP-MMM9G-D2DKG-H8RB3
+
+- 专业版：6K3M9-TPGKQ-RXPFK-VBR33-PW66V
+
+- 企业版：RRPWN-69DBB-FDYV4-VTTYV-VT9R4
+
 ## 书籍
 
 - [Kindle找书-鳩摩搜索](https://www.jiumodiary.com/)
@@ -50,4 +58,5 @@
 ## 数据搜索引擎
 
 - [数据入口集合-大数据导航](http://hao.199it.com/)
+
 - 
