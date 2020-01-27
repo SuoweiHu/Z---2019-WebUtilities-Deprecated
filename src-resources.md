@@ -45,8 +45,7 @@
 
 ## 磁力链接
 
-- [种子/磁力链接搜索-SOBT](http://www.sobt5.pw/)
-- [种子/磁力链接搜索-爱扒趣](https://www.zyboe.com/)
+- [种子/磁力链接](https://suoweihu.github.io/WebUtilities/src-magnet)
 
 ## 数据搜索引擎
 

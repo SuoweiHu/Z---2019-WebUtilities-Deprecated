@@ -18,13 +18,9 @@
 
 
 
-## [账号分享](http://www.idinid.com/)
+## 账号分享
 
-- [百度云盘](http://www.idinid.com/site/panbaidu.html)
-- [迅雷会员](http://www.idinid.com/site/xunlei.html)
-- [中国知网](http://www.idinid.com/site/cnki.html)
-
-
+- ​	[账号分享类](https://suoweihu.github.io/WebUtilities/src-account)
 
 ## 常用前缀/命令
 
