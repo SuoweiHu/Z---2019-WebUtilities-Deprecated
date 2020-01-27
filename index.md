@@ -12,13 +12,9 @@
 
 [BiliBili-稍后再看](https://www.bilibili.com/watchlater/#/list)
 
-
-
 [十分钟经济学](https://space.bilibili.com/1950746/channel/detail?cid=1766)
 
 [日本东京自由行攻略](http://www.dongjinggonglue.com/lvyou/gonglue/3313.html)
-
-
 
 ---
 
@@ -29,8 +25,6 @@
 - [待校验/任务/Git Issue](https://github.com/SuoweiHu/JapanTrip-2020/issues)
 
 - [Google Drive地图](https://www.google.com/maps/d/u/0/edit?mid=1dLZIDPDTCEggfbseCkc7ACiNJ22XU7Aw&ll=35.63010033886083%2C139.69189161309328&z=12)
-
-
 
 ---
 
@@ -45,8 +39,10 @@
     - [稍后再看](https://www.bilibili.com/watchlater/#/list)
     
     - [动态](https://t.bilibili.com/)
-        
-    - [番剧](https://space.bilibili.com/6695871/bangumi)
+      
+    - [动漫区-番剧](https://space.bilibili.com/6695871/bangumi)
+    
+    - [放映厅-追剧](https://space.bilibili.com/6695871/cinema)
     
         
     
@@ -131,7 +127,7 @@
 
 ---
 
-## 账号分享
+## 账号类
 
 - [账号有偿分享-号中号](http://www.idinid.com/)
     - [百度云盘](http://www.idinid.com/site/panbaidu.html)
@@ -186,7 +182,7 @@
 
     - [种子/磁力链接搜索-SOBT](http://www.sobt5.pw/)
     - [种子/磁力链接搜索-爱扒趣](https://www.zyboe.com/)
-    - 
+
 
 - ### 数据搜索引擎
 
@@ -208,11 +204,12 @@
 
 ---
 
-## 消费退烧
+## 消费退烧/激励
 
 - [透支消费来装逼！你是真的有钱？](https://www.bilibili.com/watchlater/#/av66996909/p1)
 - [消费，毁掉一个人的未来有多容易？](https://www.bilibili.com/watchlater/#/av82643386/p1)
 - [为什么说现在年轻人基本没机会了](https://www.bilibili.com/watchlater/#/av71021463/p1)
+- [控制好你的右手，别让他毁了你！](https://www.bilibili.com/watchlater/#/av75422828/p1)
 
  
 
