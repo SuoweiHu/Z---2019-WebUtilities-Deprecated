@@ -2,28 +2,29 @@
 
 ---
 
-[TOC]
+[Youtube-稍后再看](https://www.youtube.com/playlist?list=WL)
+
+[BiliBili-稍后再看](https://www.bilibili.com/watchlater/#/list)
 
 ---
 
-## 收藏待阅
+[JapanTrip-2020](https://suoweihu.github.io/WebUtilities/src-japtrip) 
 
-### [Youtube-稍后再看](https://www.youtube.com/playlist?list=WL)
+---
 
-### [BiliBili-稍后再看](https://www.bilibili.com/watchlater/#/list)
+[激励类](https://suoweihu.github.io/WebUtilities/src-encourage)
 
-### JapanTrip-2020 
+[学习类](https://suoweihu.github.io/WebUtilities/src-study)
 
-## 学习类
+[工具类](https://suoweihu.github.io/WebUtilities/src-tools)
 
-## 工具类
+- [账号分享类](https://suoweihu.github.io/WebUtilities/src-account)
 
-### 账号分享类
+[资源类](https://suoweihu.github.io/WebUtilities/src-resources)
 
-## 资源类
+- [种子/磁力链接](https://suoweihu.github.io/WebUtilities/src-magnet)
 
-### 种子/磁力链接
+[娱乐类](https://suoweihu.github.io/WebUtilities/src-amusement)
 
-## 娱乐类
+ 
 
-## 
