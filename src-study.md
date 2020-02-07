@@ -6,14 +6,16 @@
 
 ---
 
+## LeeCode答案/题解
 
+- [花花酱LeetCode](https://space.bilibili.com/9880352?fr...)
+- [绵羊教授](https://space.bilibili.com/354892788?...)
+- [NAT8023](https://space.bilibili.com/149758?fro...)
 
 ## 工具
 
 - [Desmos-图表生成](https://www.desmos.com/calculator)
 - [Wolframe-计算/查询](https://www.wolframalpha.com/)
-
-
 
 ## 资料
 
@@ -24,8 +26,6 @@
 - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html)
 - [IB-Physics](https://ibphysics.org/)
 
-
-
 ## 文献
 
 - [JSTOR](https://www.jstor.org/)
@@ -34,16 +34,10 @@
 - [学术搜索-谷歌学术](https://scholar.google.com.hk/?hl=zh-CN)
 - [学术搜素-360学术](http://xueshu.so.com/)
 - [学术搜素-中国知网](https://www.cnki.net/)
-- 
-
-
 
 ## 问题
 
 - [问题搜索-CSDN](https://www.csdn.net/)
-- 
-
-
 
 ## 课本
 
