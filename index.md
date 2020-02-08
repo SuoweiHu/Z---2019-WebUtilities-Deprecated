@@ -10,6 +10,8 @@
 
 -[V2EX-IT话题](https://www.v2ex.com/?tab=tech)
 
+-[Feedly-RSS News Feed](https://feedly.com/i/my)
+
 ##### 				- [YouTube-稍后再看](https://www.youtube.com/playlist?list=WL)
 
 ##### - [BiliBili-稍后再看](https://www.bilibili.com/watchlater/#/list)
