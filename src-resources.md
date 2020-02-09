@@ -49,7 +49,10 @@
 - [百度网盘搜索-如风搜](http://www.rufengso.net/)
 - [百度网盘搜索-云盘精灵（付费资源）](https://www.yunpanjingling.com/)
 - [百度网盘搜索-小白盘](https://www.xiaobaipan.com/)
-- 
+
+## 番剧
+
+- [AGE-FANS](https://www.agefans.tv)
 
 ## 磁力链接
 
