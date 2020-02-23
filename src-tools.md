@@ -6,6 +6,10 @@
 
 ---
 
+## 显卡天梯图
+
+- [桌面显卡天梯图-MyDrive](http://www.mydrivers.com/zhuanti/tianti/gpu/)
+
 ## Win10激活码
 
 - 教育版：YGCGD-K2NQP-MMM9G-D2DKG-H8RB3
