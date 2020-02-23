@@ -28,11 +28,13 @@
 
 ## 全部
 
-##### - [ANU-官网-所有你需要用到的链接](https://suoweihu.github.io/WebUtilities/src-anu-sites)
+##### - [ANU All](https://suoweihu.github.io/WebUtilities/src-anu-sites)
+
+##### - [VPN All](https://suoweihu.github.io/WebUtilities/src-vpn-guide)
 
 ##### - [激励类-当你想放弃看看这里充电吧](https://suoweihu.github.io/WebUtilities/src-encourage)
 
-###### - [学习类-跟学习有关的一切都可以在这里找到](https://suoweihu.github.io/WebUtilities/src-study)
+###### - [Acadamic](https://suoweihu.github.io/WebUtilities/src-study)
 
 ###### - [工具类-各种吧，有些可能分类会重复](https://suoweihu.github.io/WebUtilities/src-tools)
 

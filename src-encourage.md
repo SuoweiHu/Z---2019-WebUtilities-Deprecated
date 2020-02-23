@@ -16,3 +16,6 @@
 - [为什么说现在年轻人基本没机会了](https://www.bilibili.com/watchlater/#/av71021463/p1)
 - [控制好你的右手，别让他毁了你！](https://www.bilibili.com/watchlater/#/av75422828/p1)
 
+## 日..你挂了所有课好吓人哦（群里的图）
+
+![你挂了全部课程-真的是吓人哦](https://tva1.sinaimg.cn/large/0082zybpgy1gc6r22nyndj30u01swtaf.jpg)
