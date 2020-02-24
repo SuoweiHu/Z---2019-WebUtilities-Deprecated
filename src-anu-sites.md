@@ -12,7 +12,12 @@
 
 ## [StreaMs-选Tutorial/看分](https://cs.anu.edu.au/streams/index.php)
 
-## Info
+## [GITLAB-可以提前看课程的作业](https://gitlab.cecs.anu.edu.au)
+
+- 这里放的是一个DemoID（前缀：[这个链接](https://gitlab.cecs.anu.edu.au/)）
+- 使用时加上CourseCode （例如：[这个链接](https://gitlab.cecs.anu.edu.au/comp2300/2020/comp2300-2020-lab-1)）
+
+## Info-更多信息
 
 - [Defered Examination-ANU/eForm/ISIS](https://www.anu.edu.au/students/program-administration/assessments-exams/deferred-examinations)
 
