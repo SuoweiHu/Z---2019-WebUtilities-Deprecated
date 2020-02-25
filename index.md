@@ -14,6 +14,8 @@
 
 ##### 				- [YouTube-稍后再看](https://www.youtube.com/playlist?list=WL)
 
+##### - [Zhihu-收藏夹](https://www.zhihu.com/people/suowei.h/collections)
+
 ##### - [BiliBili-稍后再看](https://www.bilibili.com/watchlater/#/list)
 
 ##### -[ BiliBili-关注列表](- [BiliBili-稍后再看](https://www.bilibili.com/watchlater/#/list))
