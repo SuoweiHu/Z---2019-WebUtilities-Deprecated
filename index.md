@@ -4,6 +4,8 @@
 
 ![timetable](https://tva1.sinaimg.cn/large/0082zybply1gc9r2zwv7sj315b0u0wkj.jpg)
 
+​							[Built Using [ANU-Unofficial-Timetable Builder](https://anutimetable.com)]
+
 ---
 
 ## 常用
