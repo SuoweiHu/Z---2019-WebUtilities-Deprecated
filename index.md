@@ -1,6 +1,6 @@
 # 常用网站集合
 
-![timetable-combined copy](/Users/suoweihu/Pictures/EagleLibrary.export/timetable-combined%20copy.png)
+![timetable-combined copy](https://tva1.sinaimg.cn/large/00831rSTly1gch07q20hwj31c00u0gzq.jpg)
 
 ​							[Built Using [ANU-Unofficial-Timetable Builder](https://anutimetable.com)]
 
