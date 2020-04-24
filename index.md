@@ -1,9 +1,5 @@
 # 常用网站集合
 
-![timetable-combined copy](https://tva1.sinaimg.cn/large/00831rSTly1gch07q20hwj31c00u0gzq.jpg)
-
-​							[Built Using [ANU-Unofficial-Timetable Builder](https://anutimetable.com)]
-
 ---
 
 [LeeCode题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
@@ -24,7 +20,7 @@
 - [BiliBili-动漫区-番剧](https://space.bilibili.com/6695871/bangumi)
 - [BiliBili-放映厅-追剧](https://space.bilibili.com/6695871/cinema)
 
-[**坚果云-暂时用来存Lecture**](https://www.jianguoyun.com/#/)
+[坚果云-暂时用来存Lecture](https://www.jianguoyun.com/#/)
 
 [电喵大战皮卡丘DYT-Bilibili](https://space.bilibili.com/2949989)
 
