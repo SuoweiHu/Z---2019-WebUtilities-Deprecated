@@ -1,10 +1,7 @@
 # Web-Utilities
-    A web project that enables me to access all useful website i concluded including 10min mail, uni-website etc 
-    
-    Link： https://suoweihu.github.io/WebUtilities/
+Link： https://suoweihu.github.io/WebUtilities/
 
-
-============================================================================================================
+=================================================================================================
 
 - 通过以下步骤制作
 
