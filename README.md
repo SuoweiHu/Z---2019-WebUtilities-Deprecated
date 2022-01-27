@@ -1,12 +1,12 @@
 # Web-Utilities
 Link： https://suoweihu.github.io/WebUtilities/
 
-=================================================================================================
+----
+- 参考了[《使用Github做一个完全免费的个人网站》](https://zhuanlan.zhihu.com/p/91652100)搭建
+- 参考了少数派的CSS文件作为样式
+----
 
-- 通过以下步骤制作
-
-- 使用少数派的CSS文件制作
-
+<!-- 
 # 使用Github做一个完全免费的个人网站(步骤很细)
 
 https://zhuanlan.zhihu.com/p/91652100
@@ -155,4 +155,4 @@ Github上面有专门的相关主题，并且非常火，这里我给个截图
 
 最后的最后，有什么问题直接评论即可，拜拜┏(＾0＾)┛，楼主镇楼。
 
-![](data:image/svg+xml;utf8,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27200%27%20height=%27199%27%3E%3C/svg%3E)
+![](data:image/svg+xml;utf8,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20width=%27200%27%20height=%27199%27%3E%3C/svg%3E) -->
